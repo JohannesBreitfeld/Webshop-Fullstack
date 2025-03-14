@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Fullstack.ApiService\Fullstack.ApiService.csproj" />
     <ProjectReference Include="..\Fullstack.Domain\Fullstack.Domain.csproj" />
   </ItemGroup>
 

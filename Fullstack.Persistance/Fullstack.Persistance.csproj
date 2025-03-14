@@ -15,4 +15,8 @@
     <Folder Include="Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fullstack.Domain\Fullstack.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
